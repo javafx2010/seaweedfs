@@ -18,7 +18,7 @@ import (
 	"github.com/seaweedfs/seaweedfs/weed/pb"
 
 	"github.com/gorilla/mux"
-	hashicorpRaft "github.com/hashicorp/raft"
+	"github.com/hashicorp/raft"
 	"github.com/seaweedfs/raft"
 	"google.golang.org/grpc"
 
